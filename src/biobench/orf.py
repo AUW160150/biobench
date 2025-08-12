@@ -1,5 +1,10 @@
 from typing import List, Tuple
 
+#Hi Rodela Testing
+
+# ORF (Open Reading Frame) detection in DNA sequences
+# Based on the standard genetic code, which uses codons to define start and stop signals.
+
 STOP_CODONS = {"TAA", "TAG", "TGA"}
 START_CODON = "ATG"
 
