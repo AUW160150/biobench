@@ -49,3 +49,6 @@ out/summary.md — Goose Summarizer output
 
 🔗 Repo
 https://github.com/AUW160150/biobench
+
+<img width="879" height="455" alt="image" src="https://github.com/user-attachments/assets/17a748e1-108d-45ea-88b6-af14a2eff382" />
+
