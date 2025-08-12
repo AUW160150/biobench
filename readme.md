@@ -25,13 +25,6 @@ Summarizer agent reads out/report.json + out/orfs.csv and generates out/summary.
 Runner+Summarizer flow documented in GOOSE.md.
 (Windows tool friction noted; chat-based Summarizer path still demonstrates agentic value.)
 
-🏆 Why It Deserves a Prize
-Special Prize — CodeRabbit: Clear, documented correctness improvements from AI review; both IDE and PR loops used.
-
-Best Use of Goose: Practical subagent producing a concise, judge-ready summary.md.
-
-Best Developer Feedback: Non-boilerplate notes on onboarding, severity grouping request, and Windows tooling feedback. See FEEDBACK.md.
-
 ⚡ How to Run
 (Windows, PowerShell, venv active)
 
