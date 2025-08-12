@@ -6,7 +6,7 @@ Why It Matters
 Small bioinformatics pipelines often fail silently on edge cases (empty inputs, reverse-strand mapping, sequence normalization).
 BioBench demonstrates how AI-driven code review and agentic automation improve correctness, reproducibility, and developer experience.
 
-🧠 AI Tools Used (Prize-Relevant)
+🧠 AI Tools Used
 CodeRabbit (IDE + PR Reviews)
 Caught and helped fix correctness issues:
 
